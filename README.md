@@ -19,3 +19,6 @@ public function register()
 
 Password Generation executing when you click "Key" button
 
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
